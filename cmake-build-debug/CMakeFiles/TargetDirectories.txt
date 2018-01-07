@@ -1,0 +1,3 @@
+/Users/mats/Projects/face-recognizer-eigenfaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mats/Projects/face-recognizer-eigenfaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mats/Projects/face-recognizer-eigenfaces/cmake-build-debug/CMakeFiles/opencv.dir
